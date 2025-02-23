@@ -1,0 +1,4 @@
+My programming goals are:
+	Improve my solution logics and pseudocodes
+	Improve my backend operation skills
+	Improve my web application buliding skills(authentication, security and scalability  
